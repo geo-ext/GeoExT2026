@@ -10,15 +10,12 @@ nav_order: 2
 
 <span style="font-size:20px;"> [Ross Purves](https://www.geo.uzh.ch/~rsp/), University of Zurich, Switzerland</span>
 
-<span style="font-size:20px;"> 
-[Ludovic Moncla](https://ludovicmoncla.github.io/), INSA Lyon, France </span>
+<span style="font-size:20px;"> [Ludovic Moncla](https://ludovicmoncla.github.io/), INSA Lyon, France </span>
 
-<span style="font-size:20px;"> 
-[Jens Kersten](https://www.dlr.de/dw/desktopdefault.aspx/tabid-12207/21398_read-37046/sortby-lastname/), German Aerospace Center, Germany </span>
+<span style="font-size:20px;"> [Jens Kersten](https://scholar.google.com/citations?user=n6C4T6AAAAAJ&hl=de), German Aerospace Center, Germany </span>
 
 
-<span style="font-size:20px;"> 
-[Anna Kruspe](https://cs.hm.edu/kontakte_de/phonebook_detailseite_98444.de.html), Munich University of Applied
+<span style="font-size:20px;"> [Anna Kruspe](https://cs.hm.edu/kontakte_de/phonebook_detailseite_98444.de.html), Munich University of Applied
 Sciences, Germany</span>
 
 
