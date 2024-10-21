@@ -23,7 +23,6 @@ nav_order: 1
 
 <span style="font-size:20px;"> 
 The vast and ever-growing volumes of semi- and unstructured text data—ranging from news articles, scientific publications, and historical records to travel blogs and social media posts—contain a wealth of geographic information hidden within toponyms, place attributes, and complex location descriptions. This latent geographic information presents an invaluable resource for exploration, analysis, and retrieval, offering significant potential across various fields, including spatial humanities, geographic search, disaster management, urban planning, disease surveillance, tourism planning, and landscape characterization.
-  
 Researchers from diverse disciplines, such as information retrieval, natural
 language processing, and geographic information science, have developed a variety of methods—including rule-based, machine learning-based, deep learning-based, and, more recently, large language model (LLM)-based  approaches to deduce the geographical context of documents, extract geographic references from diverse texts, and unambiguously link them to geographic entities or spaces like geographic grids on the Earth’s surface. Despite significant advances in geographic information extraction, ensuring the reliability and applicability of these methods remains challenging. </span>
 
