@@ -16,7 +16,7 @@ nav_order: 1
 <p align="center">
   <img src="{{site.baseurl}}/figure/geoext2024.jpeg" alt="Descriptive alt text" width="600">
   <br> <!-- Line break to ensure the caption appears under the image -->
-  <span>Second GeoExT workshop in Glasgow</span>
+  <span>Third GeoExT workshop in Glasgow</span>
 </p>
 
 
