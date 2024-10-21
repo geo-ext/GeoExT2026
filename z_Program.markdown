@@ -5,6 +5,7 @@ permalink: /program/
 nav_order: 9
 ---
 
+<!-- 
 
 
 <span style="font-size:20px;"> 
@@ -132,3 +133,5 @@ The workshop will be held in Glasgow, Scotland, on 24th March, 2024, 09:00-16:30
     </tr>
   </tbody>
 </table>
+
+-->
