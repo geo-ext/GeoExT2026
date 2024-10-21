@@ -15,8 +15,8 @@ nav_order: 1
 
 <p align="center">
  <div style="display: flex; justify-content: space-between;">
-  <img src="{{site.baseurl}}/figure/GeoExT.jpg" alt="First Image" style="width: 45%; margin-right: 5%;">
-  <img src="{{site.baseurl}}/figure/geoext2024.jpeg" alt="Second Image" style="width: 45%;">
+  <img src="{{site.baseurl}}/figure/GeoExT.jpg" alt="First GeoExT workshop in Dublin" style="width: 45%; margin-right: 5%;">
+  <img src="{{site.baseurl}}/figure/geoext2024.jpeg" alt="Second GeoExT workshop in Glasgow" style="width: 45%;">
 </div>
 </p>
 
