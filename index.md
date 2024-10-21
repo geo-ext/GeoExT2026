@@ -10,7 +10,7 @@ nav_order: 1
 
 # Third International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
-## to be held at the [47th European Conference on Information Retrieval (ECIR 2025)](https://ecir2025.eu/) in Lucca, Tuscany, Italy, 10th April, 2025
+## to be held at the [47th European Conference on Information Retrieval (ECIR 2025)](https://ecir2025.eu/) in Lucca, Tuscany, Italy, April 10th, 2025
 
 
 
