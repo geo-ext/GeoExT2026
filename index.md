@@ -16,13 +16,13 @@ nav_order: 1
 
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
-    <figure style="width: 45%; margin-right: 5%; text-align: center;">
+    <figure style="width: 47%; margin-right: 5%; text-align: center;">
       <a href="https://geo-ext.github.io/GeoExT2023">
         <img src="{{site.baseurl}}/figure/GeoExT.jpg" alt="First GeoExT workshop in Dublin" style="width: 100%;">
       </a>
       <figcaption><a href="https://geo-ext.github.io/GeoExT2023/">First GeoExT workshop in Dublin</a></figcaption>
     </figure>
-    <figure style="width: 45%; text-align: center;">
+    <figure style="width: 47%; text-align: center;">
       <a href="https://geo-ext.github.io/GeoExT2024">
         <img src="{{site.baseurl}}/figure/geoext2024.jpeg" alt="Second GeoExT workshop in Glasgow" style="width: 100%;">
       </a>
