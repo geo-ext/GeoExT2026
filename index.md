@@ -14,21 +14,6 @@ nav_order: 1
 
 
 
-
-<p align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <figure style="width: 45%; margin-right: 5%;">
-      <img src="{{site.baseurl}}/figure/GeoExT.jpg" alt="First GeoExT workshop in Dublin" style="width: 100%;">
-      <figcaption>First GeoExT workshop in Dublin</figcaption>
-    </figure>
-    <figure style="width: 45%;">
-      <img src="{{site.baseurl}}/figure/geoext2024.jpeg" alt="Second GeoExT workshop in Glasgow" style="width: 100%;">
-      <figcaption>Second GeoExT workshop in Glasgow</figcaption>
-    </figure>
-  </div>
-</p>
-
-
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
     <figure style="width: 45%; margin-right: 5%; text-align: center;">
