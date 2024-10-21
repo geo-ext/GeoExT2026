@@ -9,7 +9,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Hongchao Fan</strong>, Norwegian University of Science and Technology, Norway</span>
 * <span style="font-size:20px;"><strong>Tobias Hecking</strong>, German Aerospace Center, Germany</span>
-* <span style="font-size:20px;"><strong>Christopher B. Jones</strong>, Cardiff University, UK <!-- Comment for this item --></span>
+* <span style="font-size:20px;"><strong>Christopher B. Jones</strong>, Cardiff University, UK </span>
 * <span style="font-size:20px;"><strong>Hao Li</strong>, Technische Universität München, Germany</span>
 * <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences, Germany</span>
 * <span style="font-size:20px;"><strong>Nicolás José Fernández Martínez</strong>, University of Jaén, Spain</span>
