@@ -18,7 +18,8 @@ nav_order: 2
 
 
 <span style="font-size:20px;"> 
-[Kristin Stock](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=993350), Massey University, New Zealand</span>
+[Anna Kruspe](https://cs.hm.edu/kontakte_de/phonebook_detailseite_98444.de.html), Munich University of Applied
+Sciences, Germany</span>
 
 
 \
