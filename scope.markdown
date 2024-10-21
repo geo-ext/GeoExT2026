@@ -9,39 +9,11 @@ nav_order: 4
 <span style="font-size:20px;"> 
 The workshop welcomes contributions in all topics related to geographic information extraction from texts, focused (but not limited) to: 
 
- * <span style="font-size:20px;">Document geocoding
-
-* <span style="font-size:20px;">Toponym recognition and resolution
-  
-* <span style="font-size:20px;">Toponym matching
-
- * <span style="font-size:20px;"> Method generalizability (regions, languages, data sources)
-
- * <span style="font-size:20px;">Multi-source data (e.g., text and image) fusion for method improvement
-
- * <span style="font-size:20px;">Location description extraction and resolution
-
- * <span style="font-size:20px;">Relation extraction and disambiguation
-
-* <span style="font-size:20px;"> Tweets geolocating at hyper-local levels
-
-* <span style="font-size:20px;"> Fine-grained toponym resolving 
-
-* <span style="font-size:20px;"> Historical toponym resolving
-
-* <span style="font-size:20px;"> Historical archive geovisualization
-
-* <span style="font-size:20px;"> Gazetteer enrichment for resolving ancient and evolving toponyms 
-
-* <span style="font-size:20px;"> Dataset annotation for method training and evaluation
-
-* <span style="font-size:20px;"> Platforms and metrics for approach evaluation
-
- * <span style="font-size:20px;"> Location privacy protection for online users
-
- * <span style="font-size:20px;"> Standards or unified interfaces for system development
-  
-  * <span style="font-size:20px;"> Novel applications of geographic information in texts
-  
-* <span style="font-size:20px;">  Analysing and processing of geotagged social media
-
+		* <span style="font-size:20px;"> Novel approaches in document geocoding, toponym recognition, and toponym resolution
+		 * <span style="font-size:20px;"> Tailored approaches to meet specific application needs 
+		 * <span style="font-size:20px;"> Scalability and resource-efficient use of LLMs in geographic information extraction
+		  * <span style="font-size:20px;"> Multimodal data fusion for method improvement 
+		 * <span style="font-size:20px;"> Geographic information extraction from underrepresented languages and regions
+		  * <span style="font-size:20px;"> Advanced resolution methods for fine-grained toponyms 
+		 * <span style="font-size:20px;"> Interdisciplinary approaches for historical and ancient toponym interpretation
+		  * <span style="font-size:20px;"> Advanced techniques for disambiguating complex location descriptions and spatial relations * <span style="font-size:20px;"> Novel applications of geographic information in texts 
