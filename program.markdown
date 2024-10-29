@@ -38,6 +38,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Tao Cheng</strong>, UCL, UK</span>
 * <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
+* <span style="font-size:20px;"><strong>Wei Hung</strong>, Tongji University, China</span>
 * <span style="font-size:20px;"><strong>Christopher Jones</strong>, Cardiff University, UK</span>
 * <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences / University of Sheffield, Germany/UK</span>
 * <span style="font-size:20px;"><strong>Richard Lemoine Rodriguez</strong>, University of Würzburg, Germany</span>
