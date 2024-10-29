@@ -34,3 +34,21 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
 -->
+
+* <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
+* <span style="font-size:20px;"><strong>Tao Cheng</strong>, UCL, UK</span>
+* <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
+* <span style="font-size:20px;"><strong>Christopher Jones</strong>, Cardiff University, UK</span>
+* <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences / University of Sheffield, Germany/UK</span>
+* <span style="font-size:20px;"><strong>Richard Lemoine Rodriguez</strong>, University of Würzburg, Germany</span>
+* <span style="font-size:20px;"><strong>Katherine McDonough</strong>, The Alan Turing Institute, UK</span>
+* <span style="font-size:20px;"><strong>Barbara Pernici</strong>, Politecnico di Milano, Italy</span>
+* <span style="font-size:20px;"><strong>Lina Stein</strong>, University of Potsdam, Germany</span>
+* <span style="font-size:20px;"><strong>May Yuan</strong>, University of Texas at Dallas, US</span>
+* <span style="font-size:20px;"><strong>René Westerholt</strong>, Dortmund University, Germany</span>
+* <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
+
+
+
+
+
