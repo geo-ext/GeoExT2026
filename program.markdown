@@ -34,7 +34,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
 -->
-
+* <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK
 * <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Tao Cheng</strong>, UCL, UK</span>
 * <span style="font-size:20px;"><strong>Zhipeng Gui</strong>, Wuhan University, China</span>
