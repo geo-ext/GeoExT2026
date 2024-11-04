@@ -45,6 +45,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Hao Li</strong>, Technische Universität München, Germany</span>
 * <span style="font-size:20px;"><strong>Bruno Martins</strong>, University of Lisbon, Portugal</span>
 * <span style="font-size:20px;"><strong>Katherine McDonough</strong>, Lancaster University / The Alan Turing Institute, UK</span>
+* <span style="font-size:20px;"><strong>Franz-Benjamin Mocnik</strong>, University of Salzburg, Austria </span>
 * <span style="font-size:20px;"><strong>Barbara Pernici</strong>, Politecnico di Milano, Italy</span>
 * <span style="font-size:20px;"><strong>Richard Lemoine Rodriguez</strong>, University of Würzburg, Germany</span>
 * <span style="font-size:20px;"><strong>Stef De Sabbata</strong>, University of Leicester, UK</span>
