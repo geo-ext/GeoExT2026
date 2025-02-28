@@ -8,7 +8,7 @@ nav_order: 6
 
 <span style="font-size:20px;"> <strong>Submission deadline</strong>: February 13th, 2025  ~~February 2nd, 2025~~
 
-<span style="font-size:20px;"><strong>Notification of acceptance</strong>: March 2nd, 2025
+<span style="font-size:20px;"><strong>Notification of acceptance</strong>: ~~March 2nd, 2025~~ March 8th, 2025
 
 <span style="font-size:20px;"><strong>Camera ready</strong>: March 30th, 2025
 
