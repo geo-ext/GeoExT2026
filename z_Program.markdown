@@ -44,7 +44,7 @@ nav_order: 9
 </head>
 <body>
   <h2>Workshop Schedule</h2>
-  <p><strong>Date & Location:</strong> (Update with your specific date and venue if needed)</p>
+  <p><strong>Date &amp; Location:</strong> (Update with your specific date and venue if needed)</p>
   <table>
     <thead>
       <tr>
@@ -60,9 +60,9 @@ nav_order: 9
       <tr>
         <td>14:35 – 15:15</td>
         <td>
-          <strong>Keynote Talk</strong>
-          <em>From Toponym Resolution to Advanced Models of Spatial Grounding: Past, Present and (One Possible) Future</em>
-          Jochen L. Leidner
+          <strong>Keynote Talk</strong><br>
+          <strong>Title:</strong> From Toponym Resolution to Advanced Models of Spatial Grounding: Past, Present and (One Possible) Future<br>
+          <strong>Speaker:</strong> Jochen L. Leidner
         </td>
       </tr>
       <tr>
@@ -130,5 +130,6 @@ nav_order: 9
   </table>
 </body>
 </html>
+
 
 
