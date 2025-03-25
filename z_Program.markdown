@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program
+title: Workshop Schedule
 permalink: /program/
 nav_order: 9
 ---
