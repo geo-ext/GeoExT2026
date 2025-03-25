@@ -43,9 +43,10 @@ nav_order: 9
 </head>
 <body>
   <h2>Workshop Schedule</h2>
-  <p><strong>Date: 2025 April 10;  
-  Location: Aula IMT 1 – IMT Campus</strong></p>
-
+  <div class="header-info">
+    <p><strong>Date:</strong> 2025 April 10</p>
+    <p><strong>Location:</strong> Aula IMT 1 – IMT Campus</p>
+  </div>
   <table>
     <thead>
       <tr>
