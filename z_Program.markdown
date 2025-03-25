@@ -54,7 +54,7 @@ nav_order: 9
 </head>
 <body>
   <div class="header-info">
-    <p><strong>Date:</strong> 2025 April 10</p>
+    <p><strong>Date:</strong> April 10, 2025</p>
     <p><strong>Location:</strong> Aula IMT 1 – IMT Campus</p>
   </div>
   <table>
