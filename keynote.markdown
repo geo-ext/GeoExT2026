@@ -5,6 +5,20 @@ permalink: /keynote/
 nav_order: 3
 ---
 
+<p align="center">
+<a>
+ <img src="{{site.baseurl}}/figure/dr-jochen-l-leidner.png"   height="250" ></a>
+</p>
+
+ <p align="center">
+<a href="https://www.hs-coburg.de/en/personen/prof-dr-jochen-leidner/">
+ Prof. Dr. Jochen L. Leidner </a>
+</p>
+  
+ <p align="center">
+ Coburg University of Applied Sciences
+</p>
+
 <span style="font-size:20px;"> <strong> Short Bio:</strong>   Prof. Dr. Jochen L. Leidner is the Research Professor for Explainable and Responsible AI at Coburg University of Applied Sciences, Germany, and is a co-founder and CEO KnowledgeSpaces, a consultancy. His experience includes positions as Director of Research at Reuters and in London. He has built up and run several research/innovation teams in multiple countries. He was also the Royal Academy of Engineering Visiting Professor of Data Analytics at the Department of Computer Science, University of Sheffield, and continues to hold a visiting affiliation today. His background includes a Master's in computational linguistics, English and computer science (University of Erlangen-Nuremberg), a Master's in Computer Speech, Text and Internet Technology (University of Cambridge) and a PhD in Informatics (University of Edinburgh), which won the first ACM SIGIR Doctoral Consortium Award for his Ph.D. thesis work, in which he coined the term "topoym resolution". His scientific contributions include leading the teams that developed the QED and ALYSSA open-domain question answering systems (evaluated at US NIST/DARPA TREC), proposing new algorithms and comparing existing algorithms for spatial resolution of named entities, and information extraction of usual and unusual things (e.g. event extraction, company risk mining, analysis of possible adverse drug events from social media sources).  He has lived and worked in Germany, Scotland, the USA, Switzerland and London, and has taught at various universities (Erlangen, Saarbrücken, Frankfurt, Zurich and now Coburg), and is a scientific expert for the European Commission (FP7, H2020, Horizon Europe) and other funding bodies. He is an author, co-author or editor of over 100 mostly peer-reviewed publications (incl. one best paper award) and holds several patents in the areas of information retrieval, natural language processing, and mobile computing. He has been twice winner of the Thomson Reuters inventor of the year award for the best patent application. He is a Fellow of the Royal Geographical Society.
 
 
