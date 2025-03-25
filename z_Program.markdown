@@ -43,7 +43,9 @@ nav_order: 9
 </head>
 <body>
   <h2>Workshop Schedule</h2>
-  <p><strong>Date &amp; Location:</strong> (Update with your specific date and venue if needed)</p>
+  <p><strong>Date: 2025 April 10;  
+  Location: Aula IMT 1 – IMT Campus</strong></p>
+
   <table>
     <thead>
       <tr>
