@@ -7,7 +7,7 @@ nav_order: 3
 
 <p align="center">
 <a>
- <img src="figure/dr-jochen-l-leidner.png"   height="250" ></a>
+ <img src="{{site.baseurl}}/figure/dr-jochen-l-leidner.png"   height="250" ></a>
 </p>
 
  <p align="center">
