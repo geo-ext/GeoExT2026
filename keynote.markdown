@@ -16,7 +16,11 @@ nav_order: 3
 </a>
 </p>
   
-
+<h2 align="center">
+  <a href="https://www.hs-coburg.de/en/personen/prof-dr-jochen-leidner/">
+    Prof. Dr. Jochen L. Leidner
+  </a>
+</h2>
 
 
 <span style="font-size:20px;"> <strong> Title:</strong> From Toponym Resolution to Advanced Models of Spatial Grounding: Past, Present and (One Possible) Future
