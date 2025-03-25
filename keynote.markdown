@@ -9,12 +9,6 @@ nav_order: 3
 <a>
  <img src="{{site.baseurl}}/figure/dr-jochen-l-leidner.png"   height="250" ></a>
 </p>
-
- <p align="center">
-<a href="https://www.hs-coburg.de/en/personen/prof-dr-jochen-leidner/">
-<h2>Prof. Dr. Jochen L. Leidner</h2>
-</a>
-</p>
   
 <h2 align="center">
   <a href="https://www.hs-coburg.de/en/personen/prof-dr-jochen-leidner/">
