@@ -12,7 +12,8 @@ nav_order: 3
 
  <p align="center">
 <a href="https://www.hs-coburg.de/en/personen/prof-dr-jochen-leidner/">
- Prof. Dr. Jochen L. Leidner </a>
+<h2>Prof. Dr. Jochen L. Leidner</h2>
+</a>
 </p>
   
 
