@@ -5,7 +5,6 @@ permalink: /program/
 nav_order: 9
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
