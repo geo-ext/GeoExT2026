@@ -88,11 +88,11 @@ nav_order: 9
             </li>
             <li>
               <strong>Extracting Spatial Entities Involved in the Description of a Movement Action Using Deep Learning Methods: A Comparative Study of Three Models</strong><br>
-              <em>Presenters:</em> Abdelkirm Tafer and Mauro Gaio
+              <em>Presenters: Abdelkirm Tafer and Mauro Gaio </em> 
             </li>
             <li>
               <strong>A Geoparsing Pipeline for Multilingual Social Media Posts from Ukraine</strong> (Online)<br>
-              <em>Presenters:</em> Maxim Mironov, Alexander Marquard, Daniel Racek, Christian Heumann, Paul W. Thurner, and Matthias Aßenmacher<br>
+              <em>Presenters: Maxim Mironov, Alexander Marquard, Daniel Racek, Christian Heumann, Paul W. Thurner, and Matthias Aßenmacher </em> <br>
             </li>
           </ul>
         </td>
@@ -106,7 +106,7 @@ nav_order: 9
         <td>
           <strong>Industry Session</strong> (Online)<br>
           <strong>Title:</strong> Automatic geolocation and map-based retrieval of unstructured geoscience documents using weighted spatial statistics, novel user interfaces, and Elasticsearch<br>
-          <em>Presenters:</em> Peter Bormann, Alwyn Rowlands, and Jesse Lord
+          <em>Presenters: Peter Bormann, Alwyn Rowlands, and Jesse Lord </em>
         </td>
       </tr>
       <tr>
@@ -116,19 +116,19 @@ nav_order: 9
           <ul>
             <li>
               <strong>Biased Geolocation in LLMs: Experiments on Probing LLMs for Geographic Knowledge and Reasoning</strong><br>
-              <em>Presenters:</em> Mila Stillman and Anna Keruspe
+              <em>Presenters: Mila Stillman and Anna Keruspe </em>
             </li>
             <li>
               <strong>Scalable Toponym Resolution with LLMs: Speed and Accuracy Optimizations</strong><br>
-              <em>Presenters:</em> Xuke Hu, Jens Kersten, and Friederike Klan
+              <em>Presenters: Xuke Hu, Jens Kersten, and Friederike Klan </em> 
             </li>
             <li>
               <strong>Assessing Performance in Extracting Topological, Direction, and Distance Spatial Relations from Reddit Using LLMs</strong><br>
-              <em>Presenters:</em> Paddy Smith, Ed Manley, and Myles Gould
+              <em>Presenters: Paddy Smith, Ed Manley, and Myles Gould </em>
             </li>
             <li>
               <strong>Generating Synthetic Oracle Datasets to Analyze Noise Impact: A Study on Building Function Classification Using Tweets</strong><br>
-              <em>Presenters:</em> Shanshan Bai, Anna Kerpe, and Xiaoxiang Zhu
+              <em>Presenters: Shanshan Bai, Anna Kerpe, and Xiaoxiang Zhu </em>
             </li>
           </ul>
         </td>
