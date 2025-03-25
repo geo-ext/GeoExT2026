@@ -91,9 +91,8 @@ nav_order: 9
               <em>Presenters:</em> Abdelkirm Tafer and Mauro Gaio
             </li>
             <li>
-              <strong>A Geoparsing Pipeline for Multilingual Social Media Posts from Ukraine</strong><br>
+              <strong>A Geoparsing Pipeline for Multilingual Social Media Posts from Ukraine</strong> (Online)<br>
               <em>Presenters:</em> Maxim Mironov, Alexander Marquard, Daniel Racek, Christian Heumann, Paul W. Thurner, and Matthias Aßenmacher<br>
-              <em>Format:</em> Online
             </li>
           </ul>
         </td>
