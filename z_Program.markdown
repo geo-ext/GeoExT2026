@@ -84,7 +84,7 @@ nav_order: 9
           <ul>
             <li>
               <strong>Comparing Geospatiality of Topics Between Geotag- and Geoparsing-based Geolocations</strong><br>
-              <em>Presenters:</em> Johannes Mast, Richard Lemoine Rodriguez, Vanessa Rittlinger, Christian Geiss, and Hannes Taubenböck
+              <em>Presenters: Johannes Mast, Richard Lemoine Rodriguez, Vanessa Rittlinger, Christian Geiss, and Hannes Taubenböck </em>
             </li>
             <li>
               <strong>Extracting Spatial Entities Involved in the Description of a Movement Action Using Deep Learning Methods: A Comparative Study of Three Models</strong><br>
