@@ -15,9 +15,6 @@ nav_order: 3
  Prof. Dr. Jochen L. Leidner </a>
 </p>
   
- <p align="center">
- Coburg University of Applied Sciences
-</p>
 
 
 
