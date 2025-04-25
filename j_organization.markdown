@@ -1,6 +1,6 @@
 ---
 permalink: /organization/
-title: Organizers
+title: Chairs
 nav_order: 2
 ---
 
