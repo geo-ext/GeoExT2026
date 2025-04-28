@@ -14,7 +14,7 @@ nav_order: 1
 
 
 <p align="center">
-  <img src="{{site.baseurl}}/figure/geoext2025.jpeg" alt="Descriptive alt text" width="600">
+  <img src="{{site.baseurl}}/figure/geoext2025.jpg" alt="Descriptive alt text" width="600">
   <br> <!-- Line break to ensure the caption appears under the image -->
   <span>Third GeoExT workshop in Lucca</span>
 </p>
