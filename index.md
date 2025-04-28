@@ -12,7 +12,7 @@ nav_order: 1
 
 ## to be held at the [47th European Conference on Information Retrieval (ECIR 2025)](https://ecir2025.eu/) in Lucca, Italy, April 10th, 2025
 
-
+<!-- 
 
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
@@ -30,7 +30,7 @@ nav_order: 1
     </figure>
   </div>
 </p>
-
+-->
 
 
 
