@@ -12,6 +12,14 @@ nav_order: 1
 
 ## to be held at the [47th European Conference on Information Retrieval (ECIR 2025)](https://ecir2025.eu/) in Lucca, Italy, April 10th, 2025
 
+
+<p align="center">
+  <img src="{{site.baseurl}}/figure/geoext2025.jpeg" alt="Descriptive alt text" width="600">
+  <br> <!-- Line break to ensure the caption appears under the image -->
+  <span>Third GeoExT workshop in Lucca</span>
+</p>
+
+
 <!-- 
 
 <p align="center">
