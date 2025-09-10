@@ -482,3 +482,36 @@ h1, h2, h3, h4, h5, h6 {
     
       background-color: rgba($border-color-02, 0.65);
     }
+
+/* --- Compact, non-wrapping top nav --- */
+.site-nav .trigger {
+  display: flex;
+  align-items: center;
+  gap: .5rem;               /* tighter spacing between links */
+  flex-wrap: wrap;          /* allow wrap on wide screens if needed */
+}
+
+/* Make each link smaller and prevent breaking words like "Key Dates" */
+.site-nav .trigger .page-link {
+  padding: .25rem .65rem;   /* was ~0 20px */
+  font-size: 1.05rem;
+  line-height: 1.9;
+  white-space: nowrap;      /* keep "Key Dates" on one line */
+}
+
+/* Style the first link (← All Workshops) a bit lighter and separated */
+.site-nav .trigger > .page-link:first-child {
+  margin-right: 1rem;
+  opacity: .85;
+  font-weight: 600;
+}
+
+/* On narrower screens, avoid ugly wraps: allow horizontal scroll instead */
+@media (max-width: 1100px) {
+  .site-nav .trigger {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+  .site-nav .trigger::-webkit-scrollbar { display: none; } /* optional: hide scrollbar */
+}
+
