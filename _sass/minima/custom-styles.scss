@@ -488,3 +488,14 @@ h1, h2, h3, h4, h5, h6 {
   color: $navlink-current-color;         // 复用已有变量
 }
 
+/* === highlight current menu item === */
+.site-nav .page-current {
+  padding: 0 20px;
+  color: $navlink-current-color;
+  font-weight: bold;
+  border-bottom: 2px solid $brand-color; // 下划线高亮
+  text-decoration: none;
+  pointer-events: none; // 如果希望仍能点击，就删掉这一行
+}
+
+
