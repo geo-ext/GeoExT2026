@@ -1,8 +1,15 @@
 ---
-layout: page
+layout: home
 title: Home
 nav_order: 1
 ---
+
+<style>
+  /* Hide the page title on this page only (Minima) */
+  .page-heading { display: none; }
+  /* (If your layout renders h1 as .post-title, cover that too) */
+  .post-title { display: none; }
+</style>
 
 # Third International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
