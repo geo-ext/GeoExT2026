@@ -5,58 +5,31 @@ permalink: /program/
 nav_order: 9
 ---
 
-<html>
-<head>
-  <meta charset="UTF-8">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h2 {
-      margin-top: 0;
-    }
-    .header-info {
-      background-color: #f2f2f2;
-      padding: 10px;
-      border-radius: 5px;
-      display: inline-block;
-      margin-bottom: 20px;
-    }
-    .header-info strong {
-      display: inline-block;
-      width: 90px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 10px;
-      vertical-align: top;
-    }
-    th {
-      background-color: #f9f9f9;
-      text-align: left;
-    }
-    ul {
-      margin: 5px 0;
-      padding-left: 20px;
-    }
-    em {
-      display: block;
-      margin-top: 5px;
-      font-style: italic;
-    }
-  </style>
-</head>
-<body>
+<style>
+/* scope styles to this page only */
+.program { font-family: Arial, sans-serif; }
+.program h2 { margin-top: 0; }
+.program .header-info {
+  background-color: #f2f2f2;
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.program .header-info strong { display: inline-block; width: 90px; }
+.program table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+.program th, .program td { border: 1px solid #ddd; padding: 10px; vertical-align: top; }
+.program th { background-color: #f9f9f9; text-align: left; }
+.program ul { margin: 5px 0; padding-left: 20px; }
+.program em { display: block; margin-top: 5px; font-style: italic; }
+</style>
+
+<div class="program">
   <div class="header-info">
     <p><strong>Date:</strong> April 10, 2025</p>
     <p><strong>Location:</strong> Aula IMT 1 – IMT Campus</p>
   </div>
+
   <table>
     <thead>
       <tr>
@@ -84,15 +57,15 @@ nav_order: 9
           <ul>
             <li>
               <strong>Comparing Geospatiality of Topics Between Geotag- and Geoparsing-based Geolocations</strong><br>
-              <em>Presenters: Johannes Mast, Richard Lemoine Rodriguez, Vanessa Rittlinger, Christian Geiss, and Hannes Taubenböck </em>
+              <em>Presenters: Johannes Mast, Richard Lemoine Rodriguez, Vanessa Rittlinger, Christian Geiss, and Hannes Taubenböck</em>
             </li>
             <li>
               <strong>Extracting Spatial Entities Involved in the Description of a Movement Action Using Deep Learning Methods: A Comparative Study of Three Models</strong><br>
-              <em>Presenters: Abdelkirm Tafer and Mauro Gaio </em> 
+              <em>Presenters: Abdelkirm Tafer and Mauro Gaio</em>
             </li>
             <li>
               <strong>A Geoparsing Pipeline for Multilingual Social Media Posts from Ukraine</strong> (Online)<br>
-              <em>Presenters: Maxim Mironov, Alexander Marquard, Daniel Racek, Christian Heumann, Paul W. Thurner, and Matthias Aßenmacher	 </em> <br>
+              <em>Presenters: Maxim Mironov, Alexander Marquard, Daniel Racek, Christian Heumann, Paul W. Thurner, and Matthias Aßenmacher</em>
             </li>
           </ul>
         </td>
@@ -106,7 +79,7 @@ nav_order: 9
         <td>
           <strong>Industry Session</strong> (Online)<br>
           <strong>Title:</strong> Automatic geolocation and map-based retrieval of unstructured geoscience documents using weighted spatial statistics, novel user interfaces, and Elasticsearch<br>
-          <em>Presenters: Peter Bormann, Alwyn Rowlands and Jesse Lord </em>
+          <em>Presenters: Peter Bormann, Alwyn Rowlands and Jesse Lord</em>
         </td>
       </tr>
       <tr>
@@ -116,19 +89,19 @@ nav_order: 9
           <ul>
             <li>
               <strong>Biased Geolocation in LLMs: Experiments on Probing LLMs for Geographic Knowledge and Reasoning</strong><br>
-              <em>Presenters: Mila Stillman and Anna Kruspe </em>
+              <em>Presenters: Mila Stillman and Anna Kruspe</em>
             </li>
             <li>
               <strong>Scalable Toponym Resolution with LLMs: Speed and Accuracy Optimizations</strong><br>
-              <em>Presenters: Xuke Hu, Jens Kersten, and Friederike Klan </em> 
+              <em>Presenters: Xuke Hu, Jens Kersten, and Friederike Klan</em>
             </li>
             <li>
               <strong>Assessing Performance in Extracting Topological, Direction, and Distance Spatial Relations from Reddit Using LLMs</strong><br>
-              <em>Presenters: Paddy Smith, Ed Manley, and Myles Gould </em>
+              <em>Presenters: Paddy Smith, Ed Manley, and Myles Gould</em>
             </li>
             <li>
               <strong>Generating Synthetic Oracle Datasets to Analyze Noise Impact: A Study on Building Function Classification Using Tweets</strong><br>
-              <em>Presenters: Shanshan Bai, Anna Kruspe, and Xiaoxiang Zhu </em>
+              <em>Presenters: Shanshan Bai, Anna Kruspe, and Xiaoxiang Zhu</em>
             </li>
           </ul>
         </td>
@@ -139,5 +112,4 @@ nav_order: 9
       </tr>
     </tbody>
   </table>
-</body>
-</html>
+</div>
