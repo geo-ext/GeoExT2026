@@ -2,6 +2,7 @@
 layout: page
 title: Submission
 permalink: /submission/
+nav_title: Submit
 nav_order: 5
 ---
 
