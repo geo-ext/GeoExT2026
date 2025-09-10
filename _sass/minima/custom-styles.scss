@@ -482,3 +482,9 @@ h1, h2, h3, h4, h5, h6 {
     
       background-color: rgba($border-color-02, 0.65);
     }
+.site-nav a.active {
+  font-weight: bold;
+  border-bottom: 2px solid $brand-color; // 使用主题色
+  color: $navlink-current-color;         // 复用已有变量
+}
+
