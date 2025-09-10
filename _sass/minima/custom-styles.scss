@@ -482,37 +482,3 @@ h1, h2, h3, h4, h5, h6 {
     
       background-color: rgba($border-color-02, 0.65);
     }
-.site-nav a.active {
-  font-weight: bold;
-  border-bottom: 2px solid $brand-color; // 使用主题色
-  color: $navlink-current-color;         // 复用已有变量
-}
-
-/* highlight current menu item */
-.site-nav .page-current {
-  padding: 0 20px;
-  color: $navlink-current-color;
-  font-weight: bold;
-  border-bottom: 2px solid $brand-color;
-  text-decoration: none;
-  /* remove the next line if you still want it clickable */
-  pointer-events: none;
-}
-
-
-/* keep site title weight stable on all states */
-.site-title { font-weight: 500; }
-.site-title:visited,
-.site-title:active,
-.site-title:hover { font-weight: 500; }
-
-/* highlight current menu item (set by aria-current="page") */
-.site-nav a[aria-current="page"] {
-  font-weight: bold;
-  border-bottom: 2px solid $brand-color;
-  text-decoration: none;
-  /* remove if you want it clickable even when current */
-  pointer-events: none;
-}
-
-
