@@ -500,4 +500,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* keep site title weight stable on all states */
+.site-title { font-weight: 500; }
+.site-title:visited,
+.site-title:active,
+.site-title:hover { font-weight: 500; }
+
+/* highlight current menu item (set by aria-current="page") */
+.site-nav a[aria-current="page"] {
+  font-weight: bold;
+  border-bottom: 2px solid $brand-color;
+  text-decoration: none;
+  /* remove if you want it clickable even when current */
+  pointer-events: none;
+}
+
 
