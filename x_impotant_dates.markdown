@@ -2,6 +2,7 @@
 layout: page
 title: Key Dates
 permalink: /important_dates/
+nav_title: Dates
 nav_order: 6
 ---
 
