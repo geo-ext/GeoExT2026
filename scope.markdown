@@ -9,12 +9,26 @@ nav_order: 4
 <span style="font-size:20px;"> 
 The workshop welcomes contributions in all topics related to geographic information extraction from texts, focused (but not limited) to: 
 
-* <span style="font-size:20px;"> Novel approaches in document geocoding, toponym recognition, and toponym resolution
-* <span style="font-size:20px;"> Tailored approaches to meet specific application needs 
-* <span style="font-size:20px;"> Scalability and resource-efficient use of LLMs in geographic information extraction
-* <span style="font-size:20px;"> Multimodal data fusion for method improvement 
-* <span style="font-size:20px;"> Geographic information extraction from underrepresented languages and regions
-* <span style="font-size:20px;"> Advanced resolution methods for fine-grained toponyms 
-* <span style="font-size:20px;"> Interdisciplinary approaches for historical and ancient toponym interpretation
-* <span style="font-size:20px;"> Advanced techniques for disambiguating complex location descriptions and spatial relations
-* <span style="font-size:20px;"> Novel applications of geographic information in texts 
+* <span style="font-size:20px;"> Advances in toponym recognition, resolution, and document-level geocoding
+
+*<span style="font-size:20px;"> Scalable and resource-efficient geographic information extraction
+
+*<span style="font-size:20px;"> Advanced geocoding methods supporting spatial footprints and extents
+
+*<span style="font-size:20px;"> Geographic information extraction for underrepresented languages, regions, and text types
+
+*<span style="font-size:20px;"> Methods for interpreting historical and ancient toponyms in interdisciplinary contexts
+
+*<span style="font-size:20px;"> Techniques for handling complex location descriptions in text
+
+*<span style="font-size:20px;"> Geospatial knowledge graph construction from unstructured texts
+
+*<span style="font-size:20px;"> Fusion of text-based geographic information with other spatial data sources
+
+*<span style="font-size:20px;"> Developing high-quality gazetteers for underrepresented regions
+
+*<span style="font-size:20px;"> Development and annotation of datasets tailored to specific application requirements
+
+*<span style="font-size:20px;"> Novel metrics to evaluate geoparsing results with special emphasis on complex geometries
+
+*<span style="font-size:20px;"> Novel applications showcasing the use of geographic information embedded in texts
