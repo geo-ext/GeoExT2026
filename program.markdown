@@ -5,7 +5,8 @@ permalink: /program_committee/
 nav_title: PC
 nav_order: 7
 ---
-<!--
+TBD
+<!-- TBD: Add explanation of model evaluation metrics
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK
 * <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Hongchao Fan</strong>, Norwegian University of Science and Technology, Norway</span>
@@ -56,6 +57,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Zurich, Switzerland</span>
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
+ -->
 
 
 
