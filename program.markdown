@@ -8,11 +8,9 @@ nav_order: 7
 
 <!--
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK 
-
 * <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Tao Cheng</strong>, UCL, UK</span> -->
 * <span style="font-size:20px;"><strong>Alexander Brenning</strong>, Friedrich Schiller University Jena, Germany</span>
-
 * <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
 * <span style="font-size:20px;"><strong>Christopher Jones</strong>, Cardiff University, UK</span>
 <!--
