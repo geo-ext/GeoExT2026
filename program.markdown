@@ -17,6 +17,9 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Katherine McDonough</strong>, Lancaster University / The Alan Turing Institute, UK</span>
 * <span style="font-size:20px;"><strong>Franz-Benjamin Mocnik</strong>, University of Salzburg, Austria </span>
 * <span style="font-size:20px;"><strong>Yeran Sun</strong>, Chinese Academy of Sciences, China</span>
+* <span style="font-size:20px;"><strong>Ross Purves</strong>, University of Zurich, Switzerland </span>
+* <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
+
 
 <!-- * <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences / University of Sheffield, Germany/UK</span> * <span style="font-size:20px;"><strong>Hao Li</strong>, Technische Universität München, Germany</span>  -->
 
