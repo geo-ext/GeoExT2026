@@ -24,6 +24,8 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Steven Bethard</strong>, University of Arizona, US</span>
 * <span style="font-size:20px;"><strong>Tuomo Hiippala</strong>, University of Helsinki, Finland</span>
 * <span style="font-size:20px;"><strong>Lina Stein</strong>, RPTU University Kaiserslautern-Landau, Germany</span>
+* <span style="font-size:20px;"><strong>Anahid Basiri</strong>, University of Glasgow, UK</span>
+
 
 
 <!--
