@@ -25,6 +25,8 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Tuomo Hiippala</strong>, University of Helsinki, Finland</span>
 * <span style="font-size:20px;"><strong>Lina Stein</strong>, RPTU University Kaiserslautern-Landau, Germany</span>
 * <span style="font-size:20px;"><strong>Anahid Basiri</strong>, University of Glasgow, UK</span>
+* <span style="font-size:20px;"><strong>Johannes Scholz</strong>, Paris-Lodron-University Salzburg, Austria</span>
+* <span style="font-size:20px;"><strong>Nan Bai</strong>, TU Delft, The Netherlands</span>
 
 
 
