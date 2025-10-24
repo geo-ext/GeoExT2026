@@ -25,8 +25,7 @@ nav_order: 1
  
 <span style="font-size:20px;"> 
 A wealth of unstructured textual content implicitly holds geographic insights that are valuable across various domains, such as
-geographic search, disaster management, spatial humanities, and disease surveillance. These applications rely on different text types and lan-
-guages, target different geographic regions, operate at scales from small to large data streams, and require varying levels of geographic detail. Despite recent advances in the extraction of geographic information from texts (GeoExT), including LLM-based methods, existing approaches cannot fully meet these diverse needs, particularly in contexts with limited computational resources or scarce language support.
+geographic search, disaster management, spatial humanities, and disease surveillance. These applications rely on different text types and languages, target different geographic regions, operate at scales from small to large data streams, and require varying levels of geographic detail. Despite recent advances in the extraction of geographic information from texts (GeoExT), including LLM-based methods, existing approaches cannot fully meet these diverse needs, particularly in contexts with limited computational resources or scarce language support.
 </span>
 
 <span style="font-size:20px;"> 
