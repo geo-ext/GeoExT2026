@@ -1,1 +1,1 @@
-# GeoExT 2024
+# GeoExT 2026
