@@ -27,6 +27,10 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Anahid Basiri</strong>, University of Glasgow, UK</span>
 * <span style="font-size:20px;"><strong>Johannes Scholz</strong>, Paris-Lodron-University Salzburg, Austria</span>
 * <span style="font-size:20px;"><strong>Nan Bai</strong>, TU Delft, The Netherlands</span>
+* <span style="font-size:20px;"><strong>Naixia Mou</strong>, Shandong University of Science and Technology
+, China</span>
+
+
 
 
 
