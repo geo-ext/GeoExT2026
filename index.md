@@ -24,12 +24,13 @@ nav_order: 1
  -->
  
 <span style="font-size:20px;"> 
-The vast and ever-growing volumes of semi- and unstructured text data—ranging from news articles, scientific publications, and historical records to travel blogs and social media posts—contain a wealth of geographic information hidden within toponyms, place attributes, and complex location descriptions. This latent geographic information presents an invaluable resource for exploration, analysis, and retrieval, offering significant potential across various fields, including spatial humanities, geographic search, disaster management, urban planning, disease surveillance, tourism planning, and landscape characterization.
+A wealth of unstructured textual content implicitly holds geographic insights that are valuable across various domains, such as
+geographic search, disaster management, spatial humanities, and disease surveillance. These applications rely on different text types and lan-
+guages, target different geographic regions, operate at scales from small to large data streams, and require varying levels of geographic detail. Despite recent advances in the extraction of geographic information from texts (GeoExT), including LLM-based methods, existing approaches cannot fully meet these diverse needs, particularly in contexts with limited computational resources or scarce language support.
 </span>
 
 <span style="font-size:20px;"> 
-The Fourth GeoExT workshop is dedicated to foster discussion and exchange on recent advances in geographic information extraction from texts, with a focus on methodological innovations. Our goal is to establish a long-term forum to consolidate multi-disciplinary efforts from both researchers and practitioners in Europe and beyond. 
-</span>
+The Fourth Workshop will provide a forum to explore methodological innovations, application-driven approaches, dataset creation and annotation, and interdisciplinary perspectives. By emphasizing solutions tailored to specific requirements, the workshop seeks to advance both the foundations and the practical impact of GeoExT. </span>
 
 <span style="font-size:20px;"> 
 <strong>The workshop is supported by the Working Group ([Global mapping for SDGs](https://www2.isprs.org/commissions/comm4/icwg-4-3/)) of ISPRS Technical Commission IV/III.</strong>
