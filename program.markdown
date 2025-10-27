@@ -29,6 +29,10 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Nan Bai</strong>, TU Delft, The Netherlands</span>
 * <span style="font-size:20px;"><strong>Naixia Mou</strong>, Shandong University of Science and Technology
 , China</span>
+* <span style="font-size:20px;"><strong>René Westerholt</strong>, Dortmund University, Germany</span>
+* <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Wisconsin-Madison, US</span>
+* <span style="font-size:20px;"><strong>Erum Haris</strong>, University of Leeds, UK</span>
+
 
 
 
