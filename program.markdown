@@ -34,7 +34,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Erum Haris</strong>, University of Leeds, UK</span>
 * <span style="font-size:20px;"><strong>Egoitz Laparra</strong>, University of Arizona, US</span>
 * <span style="font-size:20px;"><strong>Nitin Ramrakhiyani</strong>, TCS Research, India</span>
-
+* <span style="font-size:20px;"><strong>Serafeim Alvanides</strong>, Dortmund University, Germany</span>
 
 
 
