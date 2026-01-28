@@ -31,16 +31,34 @@ geographic search, disaster management, spatial humanities, and disease surveill
 <span style="font-size:20px;"> 
 The Fourth Workshop will provide a forum to explore methodological innovations, application-driven approaches, dataset creation and annotation, and interdisciplinary perspectives. By emphasizing solutions tailored to specific requirements, the workshop seeks to advance both the foundations and the practical impact of GeoExT. </span>
 
-<span style="font-size:20px;"> 
-<strong>The workshop is supported by the Working Group ([Global mapping for SDGs](https://www2.isprs.org/commissions/comm4/icwg-4-3/)) of ISPRS Technical Commission IV/III.</strong>
+<span style="font-size:20px;">
+  <strong>
+    The workshop is supported by the Working Group
+    (<a href="https://www2.isprs.org/commissions/comm4/icwg-4-3/" target="_blank">
+      Global Mapping for SDGs
+    </a>)
+    of ISPRS Technical Commission IV/III and the
+    <a href="https://www.sciencedirect.com/journal/information-geography" target="_blank">
+      Information Geography
+    </a>
+    journal.
+  </strong>
 </span>
 
-<p align="center">
-  <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="200">
-</p>  <p align="center">
-  <img src="{{site.baseurl}}/figure/ig.jpg" width="200">
-</p>
-
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-top: 25px;
+">
+  <img src="{{ site.baseurl }}/figure/isprs_logo.jpg"
+       alt="ISPRS logo"
+       style="max-width:200px; height:auto;">
+  <img src="{{ site.baseurl }}/figure/ig.jpg"
+       alt="Information Geography journal logo"
+       style="max-width:200px; height:auto;">
+</div>
 
 <script data-goatcounter="https://geoext.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
