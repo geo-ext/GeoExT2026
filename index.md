@@ -36,7 +36,9 @@ The Fourth Workshop will provide a forum to explore methodological innovations, 
 </span>
 
 <p align="center">
-  <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="120">
+  <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="500">
+</p>  <p align="center">
+  <img src="{{site.baseurl}}/figure/ig.jpg" width="500">
 </p>
 
 
