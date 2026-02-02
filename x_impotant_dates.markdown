@@ -9,9 +9,9 @@ nav_order: 6
 
 
 
-<span style="font-size:20px;"> <strong>Submission deadline</strong>: February 1, 2026
+<span style="font-size:20px;"> <strong>Submission deadline</strong>: February 13, 2026  ~~February 2, 2026~~
 
-<span style="font-size:20px;"><strong>Notification of acceptance</strong>: February 21, 2026
+<span style="font-size:20px;"><strong>Notification of acceptance</strong>: March 1, 2026  ~~February 21, 2026~~
 
 <span style="font-size:20px;"><strong>Camera ready</strong>: March 30, 2026
 
