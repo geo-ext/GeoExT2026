@@ -26,8 +26,8 @@ nav_order: 9
 
 <div class="program">
   <div class="header-info">
-    <p><strong>Date:</strong> [Insert Date]</p>
-    <p><strong>Location:</strong> [Insert Location]</p>
+    <p><strong>Date:</strong> April 2</p>
+    <p><strong>Location:</strong> On site: Lijm &amp; Cultuur, Rotterdamseweg 272, 2628 AT Delft; and online</p>
   </div>
 
   <table>
@@ -39,12 +39,12 @@ nav_order: 9
     </thead>
     <tbody>
       <tr>
-        <td>8:55 – 9:00</td>
+        <td>8:55 - 9:00</td>
         <td><strong>Opening</strong></td>
       </tr>
 
       <tr>
-        <td>9:00 – 10:00</td>
+        <td>9:00 - 10:00</td>
         <td>
           <strong>Paper Session I</strong>
           <ul>
@@ -65,12 +65,12 @@ nav_order: 9
       </tr>
 
       <tr>
-        <td>10:00 – 10:30</td>
+        <td>10:00 - 10:30</td>
         <td><strong>Coffee Break</strong></td>
       </tr>
 
       <tr>
-        <td>10:30 – 12:00</td>
+        <td>10:30 - 12:00</td>
         <td>
           <strong>Paper Session II</strong>
           <ul>
@@ -95,12 +95,12 @@ nav_order: 9
       </tr>
 
       <tr>
-        <td>12:00 – 13:30</td>
-        <td><strong>Lunch Break</strong></td>
+        <td>12:00 - 13:30</td>
+        <td><strong>Lunch</strong></td>
       </tr>
 
       <tr>
-        <td>13:30 – 14:15</td>
+        <td>13:30 - 14:15</td>
         <td>
           <strong>Keynote Talk</strong><br>
           <strong>Title:</strong> Location language, language models and gazetteers<br>
@@ -109,7 +109,7 @@ nav_order: 9
       </tr>
 
       <tr>
-        <td>14:15 – 15:00</td>
+        <td>14:15 - 15:00</td>
         <td>
           <strong>Paper Session III</strong>
           <ul>
@@ -126,12 +126,12 @@ nav_order: 9
       </tr>
 
       <tr>
-        <td>15:00 – 15:30</td>
+        <td>15:00 - 15:30</td>
         <td><strong>Coffee Break</strong></td>
       </tr>
 
       <tr>
-        <td>15:30 – 16:30</td>
+        <td>15:30 - 16:30</td>
         <td>
           <strong>Paper Session IV</strong>
           <ul>
@@ -152,7 +152,7 @@ nav_order: 9
       </tr>
 
       <tr>
-        <td>16:30 – 16:45</td>
+        <td>16:30 - 16:45</td>
         <td><strong>Closing</strong></td>
       </tr>
     </tbody>
