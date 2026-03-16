@@ -27,7 +27,7 @@ nav_order: 9
 <div class="program">
   <div class="header-info">
     <p><strong>Date:</strong> April 2</p>
-    <p><strong>Location:</strong> On site: Lijm &amp; Cultuur, Rotterdamseweg 272, 2628 AT Delft; and online</p>
+    <p><strong>Location:</strong> On site: Lijm &amp; Cultuur (Rotterdamseweg 272, 2628 AT Delft); and online</p>
   </div>
 
   <table>
