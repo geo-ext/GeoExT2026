@@ -13,15 +13,13 @@ nav_order: 1
 
 # Fourth International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
-## to be held at the [48th European Conference on Information Retrieval (ECIR 2026)](https://ecir2026.eu/) in Delft, The Netherlands, April 2, 2026
-<!-- This is an invisible comment in Markdown
+## was held at the [48th European Conference on Information Retrieval (ECIR 2026)](https://ecir2026.eu/) in Delft, The Netherlands, April 2, 2026
 
 <p align="center">
-  <img src="{{site.baseurl}}/figure/geoext2025.jpg" alt="GeoExT 2025 banner" width="600">
+  <img src="{{site.baseurl}}/figure/geoext2026.jpg" alt="GeoExT 2026 banner" width="600">
   <br>
-  <span>Third GeoExT workshop in Lucca</span>
+  <span>Third GeoExT workshop in Delft</span>
 </p>
- -->
  
 <span style="font-size:20px;"> 
 A wealth of unstructured textual content implicitly holds geographic insights that are valuable across various domains, such as
