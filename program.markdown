@@ -6,7 +6,7 @@ nav_title: PC
 nav_order: 7
 ---
 
-* <span style="font-size:20px;"><strong>Serafeim Alvanides</strong>, Dortmund University, Germany</span>
+* <span style="font-size:20px;"><strong>Seraphim Alvanides</strong>, TU Dortmund University, Germany</span>
 * <span style="font-size:20px;"><strong>Nan Bai</strong>, TU Delft, The Netherlands</span>
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK
 *  <span style="font-size:20px;"><strong>Anahid Basiri</strong>, University of Glasgow, UK</span>
@@ -34,7 +34,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Kai Sun</strong>, Chinese University of Hong Kong, Hongkong</span>
 * <span style="font-size:20px;"><strong>Yeran Sun</strong>, Chinese Academy of Sciences, China</span>
 * <span style="font-size:20px;"><strong>Shu Wang</strong>, Chinese Academy of Sciences, China</span>
-* <span style="font-size:20px;"><strong>René Westerholt</strong>, Dortmund University, Germany</span>
+* <span style="font-size:20px;"><strong>René Westerholt</strong>, TU Dortmund University, Germany</span>
 * <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Wisconsin-Madison, US</span>
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
