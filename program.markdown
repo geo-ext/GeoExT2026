@@ -2,7 +2,7 @@
 layout: page
 title: Program Committee
 permalink: /program_committee/
-nav_title: PC
+nav_title: Program Committee
 nav_order: 7
 ---
 
